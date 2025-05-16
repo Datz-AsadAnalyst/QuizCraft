@@ -1,3 +1,6 @@
+![20250513_2254_C++ Cyberpunk Code Arena_simple_compose_01jv5ceh5vfrgsthxe2enwrhs4](https://github.com/user-attachments/assets/41149ffa-b878-4e33-b881-b1532da158aa)
+
+
 # QuizCraft 🧠 — Your Intelligent C++ Learning Companion
 
 
